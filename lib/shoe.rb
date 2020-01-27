@@ -18,4 +18,4 @@ end
 
 shoe = condition.new("new")
 
-conditions.
+shoe.conditon
