@@ -16,6 +16,5 @@ class Shoe
 end
 
 
-shoe = Shoe.new("new")
-
-shoe.conditon
+      shoe.condition = "old"
+      shoe.cobble
