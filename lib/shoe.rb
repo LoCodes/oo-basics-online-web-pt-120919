@@ -19,4 +19,4 @@ end
 
 
 shoe = conditon.new("new")
-shoe.cobble
+shoe
