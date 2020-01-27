@@ -18,5 +18,5 @@ end
 
 
 
-shoe.condition = shoe.conditon.new("new")
+shoe = conditon.new("new")
 shoe.cobble
